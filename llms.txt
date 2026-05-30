@@ -1,0 +1,46 @@
+# Ali Khan
+
+> Backend engineer in New York City, 8+ years. Built a MENA digital signing platform from prototype to 2M+ daily API requests at 99.9% uptime. Incoming Founding Engineer at Veris AI.
+
+Ali Khan builds backend infrastructure for AI systems that needs to be reliable, scalable, and safe. He specializes in distributed systems, async processing, databases under load, identity and cryptographic signing, and LLM orchestration. This file is a plain-text summary of https://alikhan126.github.io for AI agents and crawlers.
+
+## Current and upcoming role
+
+- Incoming Founding Engineer (Member of Technical Staff) at Veris AI, a seed-stage NYC startup building simulation environments and RL/RFT post-training pipelines for enterprise AI agents. Starting June 2026.
+
+## Experience
+
+- Staff Backend Engineer, Founding Team, Signit (signit.sa), Mar 2022 to Present. Riyadh, SA, remote from NYC. MENA digital signing platform. Architected the FastAPI/Python backend from prototype to 2M+ daily API requests at 99.9% uptime, serving 700+ enterprise customers and 50,000+ active users. Cut signing response time from 8-120s to under 300ms via async architecture (Huey queues, subprocess isolation, two-phase commits). Diagnosed a Redis crisis of 753,765 orphaned tasks at 97% utilization. Reclaimed 89GB from a 131GB production database. Built a GenAI document platform on LangGraph, Qdrant, and LiteLLM handling 20K+ documents daily. Led a PDFTron-to-PyMuPDF migration that removed 3,000+ lines and a $70K/year vendor cost. Owned Nafath/SDAIA identity verification and HSM-based cryptographic signing on Oracle HSM. Cut P95 latency 50% (850ms to 425ms).
+- Senior Backend Engineer / ML Engineer, Aapoon (Texas), Sep 2018 to Dec 2021. Distributed backend on AWS (EC2, EKS), 350K+ daily transactions at 99.97% uptime, led 12 engineers, integrated 6 AI/ML services.
+- Senior Backend Engineer, Simplify VMS (Remote), Dec 2021 to Dec 2022. Monolith to microservices (Django, FastAPI), event-driven Kafka pipelines.
+- Senior Backend Engineer (Contract), Upwork, 2019 to 2022. 25+ projects, 100% satisfaction, Top Rated.
+- Backend Developer, Food Service Direct / Unilever, 2019 to 2020. Enterprise PIM system (Django, Angular).
+- Backend Developer, BrainPlow (Lahore), 2019 to 2020. 3 production Django apps, 500K+ daily requests, NLP and recommender systems.
+
+## Education
+
+- MS in Data Science, Pace University (Seidenberg School of CSIS), May 2026.
+- BS in Computer Science, PMAS Arid Agriculture University, 2015 to 2019.
+
+## Writing (https://medium.com/@alirazakhan1)
+
+- Building a Seven-Stage Compliance Pipeline for LLM Applications Handling Sensitive Data
+- 753K Orphaned Tasks: A Redis/MySQL Production Post-Mortem
+
+## Skills
+
+- Languages: Python (FastAPI, Django, Flask), Java, Go, TypeScript
+- AI/ML: LangGraph, LiteLLM, Qdrant, RAG, TensorFlow, PyTorch, Presidio PII detection
+- Infrastructure: AWS (EC2, EKS, S3), Oracle Cloud, GCP, Docker, Kubernetes, Helm, Nginx, CI/CD
+- Databases: MySQL, PostgreSQL, MongoDB, DynamoDB, Redis
+- Distributed systems: Redis (clustering, distributed locks, pub/sub), Kafka, Huey, circuit breakers, dead letter queues, event-driven pipelines
+- Observability: Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Pyroscope, Sentry
+- Security: OAuth2, JWT, mTLS, RBAC, HSM signing, OIDC, KYC, PDPL compliance
+
+## Contact
+
+- Email: alirazakhan.offi@gmail.com
+- GitHub: https://github.com/alikhan126
+- LinkedIn: https://www.linkedin.com/in/ali-raza-khan1/
+- Medium: https://medium.com/@alirazakhan1
+- Location: New York City
